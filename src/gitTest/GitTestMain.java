@@ -16,7 +16,6 @@ public class GitTestMain {
 		System.out.println("** LocalDateTime pattern => " + today.format(df));
 		
 		System.out.println("** Local Commit Test! **");
-		/* System.out.println("** Branch hotfix 추가  => " + today.format(df)); */
-		 
+		System.out.println("** hotfix Branch Commit Test! **");		 
 	} // main
 } // class
